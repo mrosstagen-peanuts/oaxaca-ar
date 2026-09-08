@@ -1,0 +1,9 @@
+{
+  "name": "Pinitol",
+  "smiles": "CO[C@@H]1[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)[C@H]1O",
+  "doi": "10.1016/j.jep.2018.10.031",
+  "mx_state": "Puebla",
+  "location": "Acatlan de Osorio",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}
