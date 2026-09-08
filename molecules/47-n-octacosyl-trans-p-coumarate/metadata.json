@@ -1,0 +1,9 @@
+{
+  "name": "n-octacosyl-trans-p-coumarate",
+  "smiles": "CCCCCCCCCCCCCCCCCCCCCCCCCCCCOC(=O)/C=C/c1ccc(O)cc1",
+  "doi": "10.1016/j.jep.2014.05.006",
+  "mx_state": "Guerrero",
+  "location": "Acahuizotla",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

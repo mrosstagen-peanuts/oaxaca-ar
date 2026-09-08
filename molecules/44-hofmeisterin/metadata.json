@@ -1,0 +1,9 @@
+{
+  "name": "Hofmeisterin",
+  "smiles": "CC(=O)OCC(=O)c1ccc(C)cc1O",
+  "doi": "10.1021/np0501278",
+  "mx_state": "Estado de Mexico",
+  "location": "Ozumba",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

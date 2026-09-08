@@ -1,0 +1,9 @@
+{
+  "name": "Sitosterol-3-O-b-glucoside",
+  "smiles": "CC[C@H](CC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3CC=C4C[C@@H](O[C@@H]5O[C@H](CO)[C@@H](O)[C@H](O)[C@H]5O)CC[C@]4(C)[C@H]3CC[C@@]21C)C(C)C",
+  "doi": "10.1016/S0378-8741(01)00414-7",
+  "mx_state": "Guerrero",
+  "location": "Costa Grande",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

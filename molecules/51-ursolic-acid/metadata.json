@@ -1,0 +1,9 @@
+{
+  "name": "Ursolic acid",
+  "smiles": "C[C@@H]1[C@H]2C3=CC[C@@H]4[C@@]5(C)CC[C@H](O)C(C)(C)[C@@H]5CC[C@@]4(C)[C@]3(C)CC[C@@]2(C(=O)O)CC[C@H]1C",
+  "doi": "10.1016/j.jep.2019.03.013",
+  "mx_state": "Morelos",
+  "location": "Santa Maria Ahuacatitlan",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

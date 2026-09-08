@@ -1,0 +1,9 @@
+{
+  "name": "3-(1′ 1′-dimethylallyl)-xanthyletin",
+  "smiles": "C=CC(C)(C)c1cc2cc3c(cc2oc1=O)OC(C)(C)C=C3",
+  "doi": "10.1016/j.phytochem.2004.12.028",
+  "mx_state": "Quintana Roo",
+  "location": "Not specified",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

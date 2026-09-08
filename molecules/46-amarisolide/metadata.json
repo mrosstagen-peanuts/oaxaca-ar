@@ -1,0 +1,9 @@
+{
+  "name": "Amarisolide",
+  "smiles": "C[C@@H]1CC[C@@]23COC(=O)C2=C[C@@H](O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)CC3[C@@]1(C)CCc1ccoc1",
+  "doi": "10.1021/acs.jnatprod.7b00155",
+  "mx_state": "Puebla",
+  "location": "Huauchinango",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}
