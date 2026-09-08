@@ -1,0 +1,9 @@
+{
+  "name": "Purginoside II",
+  "smiles": "CCCCCCCCCC(=O)O[C@H]1[C@H](O[C@H]2[C@H](C)O[C@H]3O[C@@H]4[C@@H](O)[C@@H](O)[C@@H](C)O[C@H]4O[C@@H](CCCCC)CCCCCCCCCC(=O)O[C@@H]3[C@@H]2O)O[C@@H](C)[C@H](O[C@@H]2O[C@@H](C)[C@H](OC(=O)CCCCC)[C@@H](OC(=O)/C=C/c3ccccc3)[C@H]2O)[C@H]1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O",
+  "doi": "10.1021/np200080k",
+  "mx_state": "Veracruz",
+  "location": "Coxmatla",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

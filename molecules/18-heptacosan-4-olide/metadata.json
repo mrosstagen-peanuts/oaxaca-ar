@@ -1,0 +1,9 @@
+{
+  "name": "Heptacosan-4-olide",
+  "smiles": "CCCCCCCCCCCCCCCCCCCCCCCC1CCC(=O)O1",
+  "doi": "10.1016/S0031-9422(03)00217-6",
+  "mx_state": "San Luis Potosi",
+  "location": "San Luis Potosi",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

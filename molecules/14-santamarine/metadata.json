@@ -1,0 +1,9 @@
+{
+  "name": "Santamarine",
+  "smiles": "C=C1C(=O)O[C@H]2[C@H]1CC[C@]1(C)[C@@H]2C(C)=CC[C@H]1O",
+  "doi": "10.1016/j.jep.2017.02.023",
+  "mx_state": "Estado de Mexico",
+  "location": "Zinacantepec",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

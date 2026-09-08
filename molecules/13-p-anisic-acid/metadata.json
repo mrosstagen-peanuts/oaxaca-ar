@@ -1,0 +1,9 @@
+{
+  "name": "p-Anisic acid",
+  "smiles": "O=C(O)c1ccc(OC)cc1",
+  "doi": "10.3390/molecules27061860",
+  "mx_state": "Veracruz",
+  "location": "Xalapa",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "7-(b-D-Glucopyranosyloxy)-5-hydroxy-2-(4-hydroxyphenyl)-4H-1-benzopyran-4-one",
+  "smiles": "O=c1cc(-c2ccc(O)cc2)oc2cc(O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)cc(O)c12",
+  "doi": "10.1021/acs.jnatprod.7b00155",
+  "mx_state": "Puebla",
+  "location": "Huauchinango",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

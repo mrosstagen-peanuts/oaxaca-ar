@@ -1,0 +1,9 @@
+{
+  "name": "Ferulic acid",
+  "smiles": "COc1cc(/C=C/C(=O)O)ccc1O",
+  "doi": "10.1021/np100447a",
+  "mx_state": "Chihuahua",
+  "location": "Basigochi",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

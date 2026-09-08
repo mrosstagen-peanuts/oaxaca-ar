@@ -1,0 +1,9 @@
+{
+  "name": "Purgic acid A",
+  "smiles": "CCC[C@H](CCCCCCCCCC(=O)O)O[C@@H]1O[C@H](C)[C@@H](O)[C@H](O)[C@H]1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O[C@@H]1O[C@@H](C)[C@H](O[C@@H]2O[C@H](C)[C@H](O)[C@H](O)[C@H]2O)[C@@H](O[C@H]2O[C@@H](CO)[C@H](O)[C@@H](O)[C@@H]2O[C@H]2O[C@@H](C)[C@H](O)[C@@H](O)[C@@H]2O)[C@H]1O",
+  "doi": "10.1021/np500762w",
+  "mx_state": "Veracruz",
+  "location": "Coxmatla",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

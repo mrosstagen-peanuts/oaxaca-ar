@@ -1,0 +1,9 @@
+{
+  "name": "8-hydroxy-6-methyl-9-oxo-9H-xanthene-1-carboxylic acid methyl ester",
+  "smiles": "COC(=O)c1cccc2oc3cc(C)cc(O)c3c(=O)c12",
+  "doi": "10.1016/S0031-9422(01)00278-3",
+  "mx_state": "Morelos",
+  "location": "Tepozotlan",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

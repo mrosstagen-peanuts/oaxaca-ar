@@ -1,0 +1,9 @@
+{
+  "name": "Rubifolide",
+  "smiles": "C=C(C)[C@@H]1CCC2=C[C@H](C/C(C)=C\\c3cc(C)c(o3)C1)OC2=O",
+  "doi": "10.1021/np060388x",
+  "mx_state": "Gulf of California",
+  "location": "Gulf of California",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

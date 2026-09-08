@@ -1,0 +1,9 @@
+{
+  "name": "7-benzoxycadalene",
+  "smiles": "Cc1cc2c(C(C)C)ccc(C)c2cc1OC(=O)c1ccccc1",
+  "doi": "10.1016/j.jep.2015.08.055",
+  "mx_state": "Estado de Mexico",
+  "location": "San Juan Xoconusco",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

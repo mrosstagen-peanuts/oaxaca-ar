@@ -1,0 +1,9 @@
+{
+  "name": "Lupinifolinol",
+  "smiles": "CC(C)=CCc1c2c(c(O)c3c1O[C@H](c1ccc(O)cc1)[C@@H](O)C3=O)C=CC(C)(C)O2",
+  "doi": "10.1016/j.jep.2017.05.019",
+  "mx_state": "Sonora",
+  "location": "Etchojoa",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

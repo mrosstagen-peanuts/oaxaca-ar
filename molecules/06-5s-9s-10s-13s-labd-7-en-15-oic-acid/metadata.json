@@ -1,0 +1,9 @@
+{
+  "name": "(−)-(5S 9S 10S 13S)-labd-7-en-15-oic acid",
+  "smiles": "CC1=CC[C@H]2C(C)(C)CCC[C@]2(C)[C@H]1CC[C@H](C)CC(=O)O",
+  "doi": "10.1021/np500022w",
+  "mx_state": "Jalisco",
+  "location": "Jocotepec",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

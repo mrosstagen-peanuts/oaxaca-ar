@@ -1,0 +1,9 @@
+{
+  "name": "Cedrelanolide",
+  "smiles": "CCC(=O)[C@@H]1C(=O)O[C@]2(C=O)[C@@H]([C@@]3(C)C(=O)C[C@@H]4O[C@@H](C(=O)OC)[C@H]3C4(C)C)CC[C@@](C)([C@@H](OC(C)=O)c3ccoc3)[C@@H]12",
+  "doi": "10.1021/jf990443q",
+  "mx_state": "Michoacan",
+  "location": "Morelia",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "2-chloro-6-[2'(S)-hydroxypropyl]-1 3 8-trihydroxy-anthraquinone",
+  "smiles": "C[C@H](O)Cc1cc(O)c2c(c1)C(=O)c1cc(O)c(Cl)c(O)c1C2=O",
+  "doi": "10.1055/s-0042-111393",
+  "mx_state": "Guerrero",
+  "location": "Chontalcoatlan",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

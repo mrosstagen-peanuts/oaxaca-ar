@@ -1,0 +1,9 @@
+{
+  "name": "Quianhucoumarin A",
+  "smiles": "C/C=C(/C)C(=O)O[C@@H]1c2c(ccc3ccc(=O)oc23)OC(C)(C)[C@@H]1O",
+  "doi": "10.1021/np010448t",
+  "mx_state": "San Luis Potosi",
+  "location": "Sierra Alvarez",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}
