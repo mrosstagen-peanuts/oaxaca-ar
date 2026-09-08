@@ -1,0 +1,9 @@
+{
+  "name": "Arizonicanol A",
+  "smiles": "COc1ccc(C2COc3cc(O)ccc3C2)c(O)c1O",
+  "doi": "10.1021/jf100070w",
+  "mx_state": "Campeche",
+  "location": "Chamboton",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "2′-isopropyl-psoralene",
+  "smiles": "CC(C)c1cc2cc3ccc(=O)oc3cc2o1",
+  "doi": "10.1016/j.phytochem.2004.12.028",
+  "mx_state": "Quintana Roo",
+  "location": "Not specified",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

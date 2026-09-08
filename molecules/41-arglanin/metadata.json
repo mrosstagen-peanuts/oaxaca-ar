@@ -1,0 +1,9 @@
+{
+  "name": "Arglanin",
+  "smiles": "C=C1C(=O)O[C@@H]2C1CC[C@]1(C)C(=O)C=C[C@](C)(O)[C@@H]21",
+  "doi": "10.1016/j.jep.2014.05.051",
+  "mx_state": "Ciudad de Mexico",
+  "location": "San Nicolas Tetelco",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

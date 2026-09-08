@@ -1,0 +1,9 @@
+{
+  "name": "3'-methoxybenzyl 2 6-dimethoxybenzoate",
+  "smiles": "COc1cccc(COC(=O)c2c(OC)cccc2OC)c1",
+  "doi": "10.1055/s-2005-864097",
+  "mx_state": "Estado de Mexico",
+  "location": "Aculco",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "1'-Isovaleroyloxy-4-O-isobutyryleugenol",
+  "smiles": "C=CC(OC(=O)CC(C)C)c1ccc(OC(=O)C(C)C)c(OC)c1",
+  "doi": "10.1021/np010615p",
+  "mx_state": "Chihuahua",
+  "location": "El Alamillo",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

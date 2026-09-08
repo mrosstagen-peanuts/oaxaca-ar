@@ -1,0 +1,9 @@
+{
+  "name": "ibogaine",
+  "smiles": "O(C)c1cc2c([nH]c3c2CCN2C4C(CC)CC(C2)CC34)cc1",
+  "doi": "10.1055/a-1157-1732",
+  "mx_state": "Veracruz",
+  "location": "Los Tuxtlas",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

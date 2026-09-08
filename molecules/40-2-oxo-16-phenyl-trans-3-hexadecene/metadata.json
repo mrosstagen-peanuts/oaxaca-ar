@@ -1,0 +1,9 @@
+{
+  "name": "2-Oxo-16-phenyl-trans-3-hexadecene",
+  "smiles": "CC(=O)/C=C/CCCCCCCCCCCCc1ccccc1",
+  "doi": "10.1021/np0401260",
+  "mx_state": "Veracruz",
+  "location": "San Andres Tuxtla",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

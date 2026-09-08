@@ -1,0 +1,9 @@
+{
+  "name": "Alpinone",
+  "smiles": "COc1cc(O)c2c(c1)O[C@H](c1ccccc1)[C@@H](O)C2=O",
+  "doi": "10.3390/molecules23040852",
+  "mx_state": "Durango",
+  "location": "Gomez-Palacios",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

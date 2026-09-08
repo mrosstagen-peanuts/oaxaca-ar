@@ -1,0 +1,9 @@
+{
+  "name": "Dihydroxypeucedanin",
+  "smiles": "CC(C)(O)C(O)COc1c2ccoc2cc2oc(=O)ccc12",
+  "doi": "10.1016/j.jep.2007.05.015",
+  "mx_state": "Ciudad de Mexico",
+  "location": "Not specified",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

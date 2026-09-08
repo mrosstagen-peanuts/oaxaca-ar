@@ -1,0 +1,9 @@
+{
+  "name": "11-acetoxy-Δ9-tetrahydrocannabinolic acid A",
+  "smiles": "CCCCCc1cc2c(c(O)c1COO)[C@@H]1C=C(COC(C)=O)CC[C@H]1C(C)(C)O2",
+  "doi": "10.1021/acs.jnatprod.5b00065",
+  "mx_state": "Not specified",
+  "location": "Not specified",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

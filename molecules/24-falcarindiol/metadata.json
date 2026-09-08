@@ -1,0 +1,9 @@
+{
+  "name": "Falcarindiol",
+  "smiles": "C=C[C@@H](O)C#CC#C[C@@H](O)/C=C\\CCCCCCC",
+  "doi": "10.1016/j.phytochem.2003.11.010",
+  "mx_state": "Not specified",
+  "location": "Not specified",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

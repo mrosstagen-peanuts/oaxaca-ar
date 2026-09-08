@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, viewport-fit=cover"
+  >
+  <meta name="referrer" content="no-referrer">
+
+  <title>2′-isopropyl-psoralene | Moléculas de México</title>
+
+  <script
+    type="module"
+    src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.5.0/model-viewer.min.js">
+  </script>
+
+  <script>
+    if (window.self !== window.top) {
+      document.documentElement.style.display = "none";
+
+      try {
+        window.top.location.replace(window.self.location.href);
+      } catch (error) {
+        console.warn("Página bloqueada dentro de un iframe.");
+      }
+    }
+  </script>
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    html,
+    body {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      overflow: hidden;
+      background: #071b24;
+      color: white;
+      font-family: Arial, sans-serif;
+    }
+
+    model-viewer {
+      width: 100%;
+      height: 100%;
+      background:
+        radial-gradient(circle at center, #164255, #071b24 70%);
+    }
+
+    .information {
+      position: absolute;
+      top: max(16px, env(safe-area-inset-top));
+      left: 16px;
+      z-index: 5;
+
+      width: min(430px, calc(100% - 32px));
+      max-height: 46vh;
+      overflow-y: auto;
+
+      padding: 16px;
+      border: 1px solid rgba(255, 255, 255, 0.18);
+      border-radius: 16px;
+
+      background: rgba(0, 18, 27, 0.82);
+      backdrop-filter: blur(8px);
+    }
+
+    h1 {
+      margin: 0 0 12px;
+      font-size: clamp(1.3rem, 4vw, 2rem);
+    }
+
+    dl {
+      display: grid;
+      grid-template-columns: max-content 1fr;
+      gap: 7px 12px;
+      margin: 0;
+      font-size: 0.9rem;
+    }
+
+    dt {
+      color: #9dd9ee;
+      font-weight: bold;
+    }
+
+    dd {
+      margin: 0;
+      overflow-wrap: anywhere;
+    }
+
+    a {
+      color: #7edcff;
+    }
+
+    .citation {
+      margin: 14px 0 0;
+      padding-top: 12px;
+      border-top: 1px solid rgba(255, 255, 255, 0.16);
+      font-size: 0.78rem;
+      line-height: 1.4;
+      color: #d1e4eb;
+    }
+
+    .camera-notice {
+      margin: 12px 0 0;
+      font-size: 0.78rem;
+      line-height: 1.4;
+      color: #d1e4eb;
+    }
+
+    .ar-button {
+      position: absolute;
+      left: 50%;
+      bottom: max(24px, env(safe-area-inset-bottom));
+      transform: translateX(-50%);
+      z-index: 10;
+
+      min-width: 230px;
+      padding: 14px 22px;
+
+      border: 0;
+      border-radius: 999px;
+      background: #d64b20;
+      color: white;
+
+      font-size: 1rem;
+      font-weight: bold;
+      cursor: pointer;
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.38);
+    }
+
+    .ar-button:focus-visible {
+      outline: 3px solid white;
+      outline-offset: 3px;
+    }
+
+    @media (max-height: 650px) {
+      .information {
+        max-height: 40vh;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <model-viewer
+    src="./molecule.glb?v=4"
+    alt="Modelo tridimensional de 2′-isopropyl-psoralene"
+    ar
+    ar-modes="webxr scene-viewer quick-look"
+    ar-placement="floor"
+    ar-scale="auto"
+    camera-controls
+    auto-rotate
+    shadow-intensity="1"
+    exposure="1"
+    loading="eager">
+
+    <button
+      slot="ar-button"
+      class="ar-button"
+      type="button">
+      Ver molécula en AR
+    </button>
+  </model-viewer>
+
+  <article class="information">
+    <h1>33. 2′-isopropyl-psoralene</h1>
+
+    <dl>
+      <dt>Estado</dt>
+      <dd>Quintana Roo</dd>
+
+      <dt>Localidad</dt>
+      <dd>Not specified</dd>
+
+      <dt>DOI</dt>
+      <dd><a href="https://doi.org/10.1016/j.phytochem.2004.12.028" target="_blank" rel="noopener noreferrer">10.1016/j.phytochem.2004.12.028</a></dd>
+    </dl>
+
+    <p class="camera-notice">
+      La cámara se utiliza únicamente para colocar la molécula en el
+      espacio que te rodea. Este sitio no graba, almacena ni transmite
+      imágenes o video.
+    </p>
+
+    <p class="citation">
+      Base de datos: Pilón-Jiménez, B. A.; Saldívar-González, F. I.; Díaz-Eufracio, B. I.; Medina-Franco, J. L. BIOFACQUIM: A Mexican Compound Database of Natural Products. Biomolecules 2019, 9, 31.
+      <a
+        href="https://doi.org/10.3390/biom9010031"
+        target="_blank"
+        rel="noopener noreferrer">
+        DOI: 10.3390/biom9010031
+      </a>
+    </p>
+  </article>
+</body>
+</html>

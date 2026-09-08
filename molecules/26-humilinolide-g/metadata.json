@@ -1,0 +1,9 @@
+{
+  "name": "Humilinolide G",
+  "smiles": "COC(=O)C[C@H]1C(C)(C)[C@H](OC(=O)C(C)C)[C@]2(OC(C)=O)C=C3C(CC[C@]4(C)C3CC(=O)O[C@H]4c3ccoc3)[C@@]1(C)C2=O",
+  "doi": "10.1016/j.phytochem.2014.11.004",
+  "mx_state": "Morelos",
+  "location": "Temixco",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Isopetasol",
+  "smiles": "CC(C)=C1C[C@@]2(C)C(=CC1=O)CC[C@@H](O)[C@@H]2C",
+  "doi": "10.1021/np5009224",
+  "mx_state": "Guerrero",
+  "location": "Chontalcoatlan",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "(2S 3S)-5-hydroxy-6 8 10-trimethoxy-2 3-dimethyl-4H2 3-dihydronaphtho[2 3-b]-pyran-4-one",
+  "smiles": "COc1cc(OC)c2c(O)c3c(c(OC)c2c1)O[C@@H](C)[C@H](C)C3=O",
+  "doi": "10.1021/jf030115x",
+  "mx_state": "Morelos",
+  "location": "Ocotlitlan",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

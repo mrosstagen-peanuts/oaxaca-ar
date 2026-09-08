@@ -1,0 +1,9 @@
+{
+  "name": "(4S 6R)-6-((E)-hept-1-en-1-yl)-4-methoxytetrahydro-2H-pyran-2-one",
+  "smiles": "O=C1O[C@@](/C=C/CCCCC)C[C@](OC)C1",
+  "doi": "10.1021/acs.jnatprod.8b00908",
+  "mx_state": "Veracruz",
+  "location": "Emiliano Zapata",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

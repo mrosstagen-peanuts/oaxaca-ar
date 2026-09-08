@@ -1,0 +1,9 @@
+{
+  "name": "Palmarumycin CP2",
+  "smiles": "O=C1CCC2(Oc3cccc4cccc(c34)O2)c2cccc(O)c21",
+  "doi": "10.1021/jf500965k",
+  "mx_state": "Quintana Roo",
+  "location": "El Eden",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

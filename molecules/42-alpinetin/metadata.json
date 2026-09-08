@@ -1,0 +1,9 @@
+{
+  "name": "Alpinetin",
+  "smiles": "COc1cc(O)cc2c1C(=O)C[C@@H](c1ccccc1)O2",
+  "doi": "10.3390/molecules23040852",
+  "mx_state": "Durango",
+  "location": "Gomez-Palacios",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}

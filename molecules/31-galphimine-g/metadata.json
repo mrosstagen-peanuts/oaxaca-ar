@@ -1,0 +1,9 @@
+{
+  "name": "Galphimine G",
+  "smiles": "C=C1CC[C@]2(C)CC[C@]3(C)[C@H]4[C@H](O)[C@H](OC(C)=O)[C@@]5([C@@H](C)O)COC(=O)C=C[C@H]5[C@]4(C)CC[C@@]3(C(=O)OC)[C@]2(O)C1",
+  "doi": "10.1021/np0304666",
+  "mx_state": "Guanajuato",
+  "location": "Municipio Doctor Mora",
+  "optimization_method": "MMFF94s",
+  "geometry_note": "Conformación generada con RDKit ETKDGv3 y optimizada con MMFF94s."
+}
